@@ -18,8 +18,7 @@ Make sure you have the following dependencies installed:
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Download the YOLO weights (`yolov8n.pt`) from [here](https://your-yolo-weights-link) and place them in the project directory.
-4. Run the script: `python car_counting.py`
+3. Run the script: `python car_counting.py`
 
 ## Project Structure
 - `car_counting.py`: Main script for the car counting system.
